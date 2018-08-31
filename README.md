@@ -19,4 +19,4 @@
 8	Notes
 9	References
 9.1	Sources
-10	Further reading
+10	Further reading.
